@@ -47,13 +47,7 @@ st.caption("Your AI Co-Pilot for Veterinary Diagnostics")
 VECTOR_STORE_PATH = "data/vector_store"
 FAISS_INDEX_PATH = os.path.join(VECTOR_STORE_PATH, "index.faiss")
 
-st.subheader("Pre-launch System Check:")
-if os.path.exists(VECTOR_STORE_PATH) and os.path.exists(FAISS_INDEX_PATH):
-    st.success("Vector Store files found successfully.")
-else:
-    st.error(f"Critical Error: Vector Store not found at '{VECTOR_STORE_PATH}'. The application cannot start.")
-    st.info("This usually means the `vector_store` folder was not correctly uploaded to the GitHub repository. Please ensure Git LFS was used to push the files.")
-    st.stop()
+
 @st.cache_resource
 def load_engine():
     return BARKEngine()
