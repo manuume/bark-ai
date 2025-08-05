@@ -1,0 +1,754 @@
+Photo Courtesy Dr. Sharon Buschette
+Ibuprofen Toxicity in Dogs and Cats
+Wendy Brooks, DVM, DABVP
+Revised: September 08, 2023
+Published: January 31, 2012
+DO NOT GIVE IBUPROFEN TO DOGS OR CATS. IT IS UNSAFE TO DO SO.
+Ibuprofen has been available as a human
+pain reliever in the United States since 1974.
+In 1984, tablets up to 200 mg became overthe-counter, and such brands as Motrin,
+Advil, and Nuprin became household names.
+Ibuprofen has been prescribed for all
+manner of human aches and pains as well
+as for other less common problems. It is a
+common remedy found in many, if not most,
+homes and offices all over America, and
+because it is so familiar, it may be tempting
+to use it on a pet. Please don't.
+Medications are not approved for human
+over-the-counter use unless they show a
+good safety margin and their use is difficult to
+botch. The problem is that every species is different, and what is safe for humans can be
+lethal to a dog or cat.
+Pet Exposure
+When pets have pain, people want a simple solution and tend to look in their own
+medicine cabinet just as they would for themselves. It is, unfortunately, common for
+people to make an assumption that a safe medication for people will also be safe for pets,
+and a number of animals are poisoned by ibuprofen when their owner attempts a simple
+treatment for pain. Alternatively, playful animals may knock over a bottle of pills and
+swallow an unknown quantity.
+Never use any medication on your pet without checking with your veterinarian.
+Do not attempt to extrapolate dosing from one species to another.
+Non-steroidal anti-inflammatory Drugs (NSAIDS)
+Non-steroidal anti-inflammatory drugs (called NSAIDs) inhibit an enzyme called
+cyclooxygenase. This enzyme is involved in the production of inflammatory chemicals
+called prostaglandins. When the inflammatory cascade is active, cells use their
+cyclooxygenase enzymes to begin to convert fats from their cell membranes into
+prostaglandins. NSAIDs put a stop to this. Prostaglandins are not produced, and the
+cascade of inflammation is stopped.
+
+8/4/25, 12:30 PM Ibuprofen Toxicity in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254105&id=5276921&ind=598&objTypeID=1007 1/3
+It turns out that there are several types of cyclooxygenase, however. Some types are
+involved in producing inflammatory prostaglandins and others involved in producing
+prostaglandins needed for normal body functions. Ibuprofen is what is called a nonselective cyclooxygenase inhibitor, which means it inhibits all types of cyclooxygenase,
+not just the ones that produce inflammatory mediators.
+Ibuprofen inhibits prostaglandins
+involved in the blood supply to the
+stomach as well as the blood supply
+to the kidneys.
+In humans, these effects are minor
+enough that they do not preclude
+approval for over-the-counter use, but
+in dogs or cats, these issues are lifethreatening. It turns out that dogs and
+cats are much more sensitive to these
+issues than people.
+Stomach Ulceration
+Ibuprofen has a very narrow safety
+margin in dogs, and since numerous
+safer medications are readily
+available, it is very rarely ever
+prescribed. Ibuprofen is too toxic for
+cats at any dose. A typical pill has 200
+mg of ibuprofen, which is actually
+quite a lot, so it doesn't take many
+pills to cause poisoning.
+The first level of toxicity involves ulceration of the stomach. This leads to vomiting with or
+without blood, appetite loss, and/or stools that are black from digested blood. The worstcase scenario is a rupture of the stomach, leading to death. Repeated use of ibuprofen
+will increase the risk of toxicity, even at doses that would not be toxic in single exposures.
+Ibuprofen inhibits the production of prostaglandins needed for normal blood circulation to
+the stomach. Without normal blood flow, the stomach cannot produce a proper protective
+layer of mucous to protect its tissues from the harsh digestive acid it contains. Ulceration
+results. Treatment involves intravenous fluids to restore circulation and medications to
+heal the ulceration.
+Kidney Failure
+The next level of toxicity occurs at higher doses. After interfering with blood flow to the
+stomach, the blood flow to the kidneys comes next. Reduced blood flow through the
+kidneys leads to death of kidney tissue. As kidney function decreases, toxins that the
+kidneys normally remove from the body begin to build up. Damage may be permanent or
+temporary depending on how much ibuprofen was ingested and how healthy the kidneys
+were prior to poisoning.
+Kidney failure is a metabolic disaster with numerous aspects to be addressed. In the short
+term, symptoms include nausea, further ulceration of the gastrointestinal tract, low body
+temperature, and diarrhea. It may be possible to avoid toxicity of the kidneys by beginning
+intravenous fluids promptly and supporting circulation despite the NSAIDs in the patient’s
+system. If toxicity is severe enough to cause the patient to stop making urine, the
+prognosis is substantially worse, and treatment must be more aggressive.
+Cats are more sensitive to kidney failure effects than are dogs.
+
+8/4/25, 12:30 PM Ibuprofen Toxicity in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254105&id=5276921&ind=598&objTypeID=1007 2/3
+Neurologic Signs
+The final level of toxicity is neurologic. At very high doses of ibuprofen, the patient will
+have tremors that can progress to outright seizures and, ultimately, coma. The patient will
+need to be supported with medications to control the involuntary muscle contractions until
+the ibuprofen is out of the patient’s system.
+Treatment and Monitoring
+As with other poisoning situations, if the patient is seen promptly (like within an hour or
+possibly two), it may be possible to induce vomiting. This can be done at your
+veterinarian’s office or possibly as directed by a toxicologist at the Animal Poison Control
+Center (APCC, see below). Activated charcoal can be given by your veterinarian to
+prevent any un-vomited ibuprofen from being absorbed into the body.
+Unfortunately, ibuprofen toxicity is common enough that a basic protocol has been put
+forth by APCC. Typically, 48 hours of intravenous fluids are needed to support the
+stomach and kidneys. Kidney function tests must be monitored and, if possible, this is
+done at intervals over three days following the poisoning event. Medications to prevent
+stomach ulcers/protect the stomach are frequently needed for a week or so. Strong
+antacids such as famotidine or omeprazole are commonly used. Sucralfate is often used
+to form protective webbing over any erosions in the stomach. Misoprostol is a
+prostaglandin protective to the stomach that can be given orally and is often included in
+treatment.
+The prognosis depends on how much ibuprofen the pet was exposed to, for how long, and
+how complete the treatment is.
+The ASPCA National Animal Poison Control is available 24 hours a day at 888-426-
+4435. Expect an initial consultation fee of around $100.00 and additional follow-up is
+at no charge. You will be assigned a case number your veterinarian can use to
+communicate with a toxicology specialist before beginning treatment.
+If your pet has a HomeAgain microchip, a free poison control consultation is included
+in the full-service registration. Call 1-888-466-3242.
+https://www.homeagain.com/our-services/emergency-medical-hotline
+https://www.aspca.org/pet-care/animal-poison-control
+URL: https://veterinarypartner.vin.com/doc/?id=5276921&pid=19239
+b6a348b1-aa75-4708-9ca2-74a861126d25.1754290826
+The content of this site is owned by Veterinary Information Network (VIN®), and its reproduction and
+distribution may only be done with VIN®'s express permission.
+The information contained here is for general purposes only and is not a substitute for advice from your
+veterinarian. Any reliance you place on such information is strictly at your own risk.
+Links to non-VIN websites do not imply a recommendation or endorsement by VIN® of the views or content
+contained within those sites.
+
+8/4/25, 12:30 PM Ibuprofen Toxicity in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254105&id=5276921&ind=598&objTypeID=1007 3/3
+Photo courtesy of MarVistaVet.com
+Zinc Poisoning in Dogs and Cats
+Wendy Brooks, DVM, DABVP
+Revised: February 17, 2024
+Published: January 01, 2001
+Red Blood Cell Destruction
+Most people have at least a passing familiarity with
+hemoglobin. Hemoglobin is the iron-containing protein
+that is responsible for the red color of blood. It binds the
+oxygen we breathe in and carries it to our tissues,
+exchanging oxygen for carbon dioxide and carrying that
+to our lungs to be exhaled away. Our red blood cells
+have no nucleus and no DNA, and they do not
+participate in most normal cellular functions; they are
+simply bags of hemoglobin being conducted around our
+blood vessels.
+A normal canine red blood cell lives approximately 120
+days (60 days for feline red cells), and it dies when it
+either becomes too stiff to fold itself through tiny
+capillaries and bursts trying to do so, or it simply cannot generate enough energy to keep
+itself alive.
+The spleen is responsible for removing old red blood cells. The spleen possesses many
+tortuous, winding blood vessels where red blood cells may break if they are not supple
+enough to pass through. The spleen then collects the hemoglobin for recycling, but since
+hemoglobin by itself is not safe for release into the bloodstream, a conversion is
+necessary. The hemoglobin is broken into a protein part (which is broken apart and
+recycled), iron (also broken off even further and recycled) and heme which is converted
+into a substance called bilirubin for transport. Bilirubin is sent to the liver to be chemically
+processed for removal (the process is called conjugation). This process enables the
+bilirubin to dissolve in water so that it can be excreted in bile and disposed of through the
+intestinal tract. Bilirubin is responsible for the brown color of feces.
+If too many red blood cells are being destroyed at once, the systems described above get
+overwhelmed.
+What is Hemolysis?
+Hemolysis is the destruction of red blood cells. Red blood cells may be destroyed by:
+immune-mediated pathways (in which the immune system treats red blood cells
+as foreign cells to be destroyed)
+the spleen’s pathways described above
+parasites that live in or on the red blood cell (such as Mycoplasma haemofelis).
+toxins such as zinc or copper
+infections or tumors.
+
+8/4/25, 12:31 PM Zinc Poisoning in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254105&id=4951445&ind=599&objTypeID=1007 1/3
+This dog has swallowed a coin (readily visible as a white
+disk in the stomach). Photo courtesy of Jennie Marvelle,
+DVM, Boothbay Animal Hospital Boothbay, ME
+When too many red blood cells are destroyed, the body’s mechanisms for processing
+hemoglobin are overwhelmed, and bilirubin builds up. The patient may be obviously
+yellow (jaundiced or icteric) when the mucous membranes are examined. The serum may
+be yellow when checked in a blood sample. If the blood cells are being destroyed in the
+bloodstream rather than in the spleen, the urine will turn red or rust-colored. Hemoglobin
+is toxic to the kidneys, and kidney failure is a strong possibility. Excessive hemolysis must
+be stopped.
+Zinc
+In 1983, the U.S. government began
+minting pennies made of zinc wafers
+coated in copper rather than out of pure
+copper. As it is not uncommon for young
+animals to swallow pennies, zinc toxicity
+became recognized.
+Other zinc sources include nuts, bolts,
+zippers (some metal zippers contain zinc),
+and zinc oxide-based skin creams, such as
+diaper rash cream and sunscreen. You can
+see a penny or other radiodense object of
+about the right size on a radiograph, or
+there may be a known history of penny
+eating. It is important to rule out immunemediated hemolysis as this is a common
+condition requiring specific (and very different) treatment.
+Clinical Signs
+The clinical signs of zinc toxicosis include:
+vomiting
+diarrhea
+red urine
+icterus (yellow mucous membranes)
+liver failure
+kidney failure
+anemia
+Vomiting and diarrhea generally precede the destruction of red blood cells. How zinc
+produces hemolysis is not known. With zinc-containing ointments, usually, only stomach
+upset is seen after the ointment is licked, but if the ointment is applied and licked regularly,
+full zinc toxicity can develop.
+Treatment
+If an object possibly made of zinc is seen on an X-ray, it should be removed promptly. This
+might involve surgery, endoscopy, or possibly inducing vomiting if the object does not
+have sharp edges. Support then becomes crucial. Fluid therapy is important to keep
+adequate circulation to the kidneys and help prevent failure. Transfusion may be
+necessary to combat anemia, and anti-nausea therapy is justified. Zinc is corrosive to the
+stomach so medication to protect the stomach will be needed. Antacids are helpful in
+reducing the absorption of zinc, which is enhanced by stomach acid. Research is looking
+at methods for binding excess zinc in the circulation similar to the way lead poisoning is
+treated.
+Once the zinc source is removed, most pets are able to recover within 48-72 hours with
+supportive care, but of course, this depends on the severity of the poisoning.
+
+8/4/25, 12:31 PM Zinc Poisoning in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254105&id=4951445&ind=599&objTypeID=1007 2/3
+The ASPCA National Animal Poison Control is available 24 hours a day at 888-426-
+4435. Expect an initial consultation fee of around $100.00 and additional follow-up is
+at no charge. You will be assigned a case number your veterinarian can use to
+communicate with a toxicology specialist before beginning treatment.
+If your pet has a HomeAgain microchip, a free poison control consultation is included
+in the full-service registration. Call 1-888-466-3242.
+https://www.homeagain.com/our-services/emergency-medical-hotline
+https://www.aspca.org/pet-care/animal-poison-control
+URL: https://veterinarypartner.vin.com/doc/?id=4951445&pid=19239
+b6a348b1-aa75-4708-9ca2-74a861126d25.1754290861
+The content of this site is owned by Veterinary Information Network (VIN®), and its reproduction and
+distribution may only be done with VIN®'s express permission.
+The information contained here is for general purposes only and is not a substitute for advice from your
+veterinarian. Any reliance you place on such information is strictly at your own risk.
+Links to non-VIN websites do not imply a recommendation or endorsement by VIN® of the views or content
+contained within those sites.
+
+8/4/25, 12:31 PM Zinc Poisoning in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254105&id=4951445&ind=599&objTypeID=1007 3/3
+
+Photo used with permission by Dr. Tina Miller
+Mushroom Poisoning in Dogs and Cats
+Stephanie Cruz-Rincon, Veterinary Student Class of 2023
+Published: January 12, 2021
+While the mushrooms in the grocery store
+are safe to eat and help make delicious
+meals, other types of mushrooms such as
+the wild ones along hiking trails or even in
+our own backyards are a completely different
+story. There are many types of mushrooms
+containing different toxins that can make not
+only ourselves sick but also our dogs and
+cats. Moreover, it’s difficult for people to
+distinguish between a safe, edible
+mushroom and one that can send their pet to
+the emergency room or even lead to death.
+Similarly, our furry companions do not have
+a built-in sense of what is safe to eat and
+what is not. A pet, especially a dog, will
+happily chow down on a toxic mushroom
+without a care in the world. That is, until you
+find them sick on the ground minutes to
+hours, and in some cases days, later. It’s
+important to note that most mushroom
+poisonings occur in dogs as many dogs will
+put almost anything into their mouth. As a
+result, most of what is known about
+mushroom toxicosis (or poisoning) is based
+on dogs. However, cats also eat toxic
+mushrooms and get sick too.
+Depending on the type of mushroom, a number of symptoms can be seen from milder
+vomiting and diarrhea to seizures and death. Besides being toxic in and of themselves,
+wild mushrooms can also contain bacteria, pesticides and heavy metals that can make
+your pet sick. It is essential you closely monitor your pet and restrict any access to
+mushrooms whenever you may be around an area with them, as they can grow almost
+anywhere. While mushrooms can grow in many different environments from woods to
+rocky terrains, their primary growing seasons are spring and early fall. However, in
+warmer climates mushrooms can grow year-round and it’s not impossible to find some in
+the colder winter months. When it comes to mushrooms and your pet, you do not want to
+take any chances so it’s a good idea to be wary year-round.
+Wild mushrooms are not the only source of mushroom toxins that can make your pets
+sick. Recreational drugs or ‘magic mushrooms’ contain several toxins that can make your
+pet ill. As a general rule, it’s a good idea to be vigilant when it comes to what your pet puts
+in their mouth; that is especially true in regards to mushrooms.
+How to Recognize Signs of Mushroom Ingestion
+
+8/4/25, 12:32 PM Mushroom Poisoning in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254106&id=10020259&ind=601&objTypeID=1007 1/7
+Oftentimes when a pet eats a mushroom, you may not be around to witness it or may not
+have noticed. After all, it only takes a few seconds to take a bite. In these cases, there are
+some clues you can look for. If you are with your dog at the time, signs of chewing,
+especially when they don’t have access to their food or treats, could indicate they have
+something in their mouth they shouldn’t. Moreover, pieces of the mushroom may be
+lingering around their lips or there’s a mushroom near where your dog was with some
+chunks missing.
+Later signs of potential mushroom ingestion include vomiting and diarrhea. Some pets
+vomit up parts of the mushroom which may not be easily recognizable depending on how
+long ago they ingested it. Sometimes, though, you may be able to recognize mushroom
+chunks in your pet’s vomit. If this is the case, taking pictures as well as collecting the
+sample is a good idea so your veterinarian can look at it later.
+Others signs of mushroom poisonings include depression or excitation, abdominal pain,
+excessive salivation, muscle tremors, seizures, and coma. How your pet will be affected
+depends on the specific mushroom they ate and how much of it they had. Your pet can
+show signs as relatively mild as vomiting once or have dramatic seizures. Some
+mushroom poisonings will affect your pet within minutes to a few hours while others may
+take days before signs of illness begin. In the case of very poisonous mushrooms, initial
+signs may be so mild they are missed while later signs are life-threatening emergencies.
+All of the signs listed are not specific for mushroom poisonings and thus can also be due
+to another issue. The wide variability of non-specific signs makes recognizing mushroom
+poisonings in animals particularly difficult.
+Immediate Steps when Suspecting Mushroom Poisoning
+If you are lucky enough to be with your pet at the time of possible mushroom ingestion
+and your pet is still chewing, the first thing to do is get them to spit out whatever is in their
+mouth. Only do so through safe means such as a command in a trained dog. Depending
+on your individual pet and their relationship with you, it may not be safe to try and pry their
+mouth open to stop them from swallowing the mushroom. If you are able to get your pet to
+spit it out, you should proceed as if they had swallowed it. You may not know if your pet
+ingested some of the mushroom so they may still be at risk of a poisoning.
+The next step to take is contacting a professional immediately. This may be your pet’s
+veterinarian, an animal poison control center, or an emergency veterinary hospital.
+Depending on your individual situation you may be asked to bring your cat or dog in to be
+seen as soon as possible. Additionally, they may want you to obtain a sample of the
+mushroom your pet ate and record details about its environment, if possible. Put the
+sample on a white sheet of paper, wrap it in wax paper and place in an airtight paper bag
+with a dry paper towel. Refrigerate until it can be examined. Take note of the location the
+mushroom was found, including the terrain, location and if possible whether the area is
+potentially exposed to pesticides or other chemicals. Make sure to follow the directions
+provided by the professional you contacted.
+If you did not witness your pet eating a mushroom, you will likely notice when they start
+feeling sick. Remember this can look different depending on the mushroom type. Charts 1
+and 2 summarize the effects different mushrooms can have on your pet. Some of these
+symptoms are general. For example, a dog can vomit for a huge number of reasons.
+Keeping track of where you pet roams and whether they have access to mushrooms will
+help raise or lower your suspicion of a poisoning. Do not rule out a poisoning just because
+you don’t see mushrooms, though. Some mushrooms can be difficult to spot and can
+spring up within days so unless you are checking the area carefully, it’s possible your pet
+had access to them without you realizing it. If you do notice any of the signs associated
+with mushroom poisonings, it’s a good idea to let your veterinarian know. Your pet could
+be experiencing the effects of a toxic mushroom or something else could be wrong that
+needs to be addressed.
+
+8/4/25, 12:32 PM Mushroom Poisoning in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254106&id=10020259&ind=601&objTypeID=1007 2/7
+Photo used with permission by Dr. Tina Miller
+Common Types of Toxic Mushrooms
+There are many different types of toxic
+mushrooms. One way they can be grouped
+together is by the body system they affect.
+For example, there are mushrooms they
+affect primarily the central nervous system
+and cause related symptoms such as
+excitation, depression and seizures. There
+are also mushrooms that mainly affect the
+gastrointestinal system of your pets, causing
+vomiting and diarrhea. These are
+summarized in Chart 1. One thing to note is
+that while some mushrooms only affect one
+body system, there are many that have
+effects on multiple and thus a combination of
+symptoms can be seen in your pet.
+Another useful way to group toxic
+mushrooms is by their primary toxin (see
+Chart 2). There you will find the typical
+symptoms associated with each mushroom
+toxin and how they develop in your pet. It’s
+important to note that different mushrooms
+will affect your pet at different times. For
+example, mushrooms with isoxazole
+derivatives can affect your pet within minutes while mushrooms with cyclic peptides may
+take 10-12 hours after eating to take effect. Moreover, how long your pet’s symptoms last
+also depends on the mushroom and its specific toxin as well as how much your pet
+ingested. While each mushroom toxin is different, the most toxic ones do not cause acute
+signs. Cyclic peptides, for one, are among the deadliest toxins but your pet may not show
+signs until about 10-12 hours after ingestion.
+Diagnosis
+Oftentimes, it is difficult to confirm a diagnosis of mushroom poisoning. If you were able to
+obtain a sample of it, species identification is tricky and your veterinarian may need to
+send the sample to a trained mycologist for evaluation. Correct evaluation and
+identification depend greatly on good preservation of the mushroom. Ways to ensure this
+are to quickly give the sample to your veterinarian for evaluation. Other useful steps to
+take are getting pictures of the mushroom as soon as you collect it, making sure to take
+different angles and include all the different parts because many mushrooms can look
+similar from the top. Taking these steps helps whoever is evaluating the mushroom
+sample make an accurate identification.
+If you do not have a mushroom sample or did not notice your pet ingesting one, other
+ways your veterinarian can diagnose your pet is by examining your pet’s vomit and feces,
+and checking which symptoms your pet has. Your veterinarian may look for spores in your
+pet’s stomach contents under a microscope. The history you report to your veterinarian
+may also increase their suspicion of a poisoning. It’s critical to provide a thorough picture
+of the situation. For instance, it may be useful for them to know you and your pet went on
+a hike through a new area recently, especially if your pet was off-leash at any point.
+Oftentimes, however, your veterinarian may not be able to confirm a diagnosis of
+mushroom poisoning and instead treat them without it.
+Treatment and Prognosis
+
+8/4/25, 12:32 PM Mushroom Poisoning in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254106&id=10020259&ind=601&objTypeID=1007 3/7
+Unless a confirmed diagnosis of mushroom poisoning and correct identification were
+made promptly, your veterinarian will likely treat your pet on a worst-case scenario basis.
+Usually this involves decontaminating your pet which includes inducing vomiting if
+appropriate, administering activated charcoal to bind the poison from the stomach and
+small intestines, and using a drug to speed defecation. In addition, your veterinarian will
+likely give your pet supportive treatments such as intravenous fluids, oxygen and other
+medications to address their specific symptoms. Usually cats and dogs will receive basic
+supportive care regardless of whether they are symptomatic or not as this can help
+prevent signs from developing. If the mushroom species is identified or highly suspected,
+there are specific medications that can be given. These include liver support medications
+for cyclic peptides or the drug atropine in the case of muscarinic mushrooms. Your pet’s
+treatment will be largely based on the symptoms they are displaying and what your
+veterinarian suspects most.
+Depending on how your pet is affected, they may need to be hospitalized for a period of
+time. This allows your veterinarian to monitor and respond quickly new symptoms or
+worsening of their current condition. It may not be necessary, however, especially with
+less severe toxins. Your pet might be stable enough for you to monitor at home.
+How well the treatment works out depends heavily on the type of mushroom ingested as
+well as how much your pet consumed, your pet’s health, and how quickly they were able
+to receive treatment. Many mushrooms are not fatal although your pet could suffer serious
+complications if not treated appropriately; other mushrooms live up to their common
+names such as the death cap mushroom. Recognizing symptoms early and seeking
+immediate care are good ways to help potential life-threatening consequences.
+Prevention
+It is always better and oftentimes easier to prevent your pet from ingesting a toxic
+mushroom than treating them for mushroom toxicosis, not to mention more economic.
+Regularly check your backyard for mushrooms before letting your pet out. While not all
+mushrooms that grow in your yard will be toxic, it is difficult to differentiate between safe
+and toxic Better no mushrooms and safe than a mushroom that may be poisonous.
+Another way to prevent mushroom poisonings in your pet is to keep them on a leash
+whenever you are out with them. This way you can better monitor them and make sure
+they don’t get into any trouble with mushrooms.
+Recreational mushrooms or ‘magic mushrooms’ are also toxic to your dogs and cats.
+While use of these substances may be legal in some places, you should still be careful
+around them. If there are any magic mushrooms in your home, be absolutely sure they
+are locked away from pets. While usually not lethal, symptoms associated with these
+mushrooms can be less than pleasant for both you and your pet.
+There are thousands of species of mushrooms in North America, the majority of which are
+not poisonous. Not every mushroom you see growing will cause your pet to get sick, but
+you should treat each one as if they could. Better safe than sorry.
+Chart 1: General Body Systems Affected
+Body System
+Affected
+Symptoms
+Mushroom
+types
+Prognosis
+
+8/4/25, 12:32 PM Mushroom Poisoning in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254106&id=10020259&ind=601&objTypeID=1007 4/7
+Hepatotoxic
+(liver)
+Mild vomiting/diarrhea to
+weakness, yellow skin,
+abdominal pain and
+comatose
+Amanitin /
+Amanita
+species
+(some)
+Galerina spp.
+Lepiota spp.
+Often fatal with
+irreversible liver failure
+Neurotoxic
+(nervous
+system)
+Incoordination,
+disorientation weakness,
+tremors, seizures,
+hallucinations, agitation
+and vocalization
+Psilocybe
+(“magic”
+mushrooms)
+Good: most animals
+recover within 6 hours.
+Treatment largely
+supportive.
+Hydrazines
+Gyromitra
+species
+Prognosis is guarded;
+many body systems
+affected.
+Isoxazole
+Generally good: most
+animals recover in 24
+hours. Treatment is
+largely supportive.
+Gastrointestinal
+Vomiting, diarrhea,
+weakness, dehydration
+less likely: slow heart rate
+and breathing problems
+Muscarinic
+Generally good with
+appropriate treatment.
+May require
+hospitalization to address
+vomiting, diarrhea and
+fluid loss
+Nephrotoxic
+(kidneys)
+Increased thirst and
+urination, vomiting,
+nausea and dehydration
+Cortinarius
+species
+Rare in the US.
+Prognosis is guarded
+depending on severity of
+renal damage
+Note: The same mushroom species may affect multiple body systems. Mushrooms are categorized here
+by their primary effect; if a mushroom is listed as hepatotoxic it may still affect other body systems but to
+a lesser degree relative to its effect on the liver.
+Chart 2: Important Specific Toxins and Mushrooms
+Toxin(s)
+Mushroom
+species
+/Common
+Name
+Disease Progression
+
+8/4/25, 12:32 PM Mushroom Poisoning in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254106&id=10020259&ind=601&objTypeID=1007 5/7
+Cyclic Peptides
+Amanita spp.
+Amanita
+phalloides
+(death cap
+mushroom)
+Galerina spp.
+Lepiota spp.
+Symptoms start 10-12 hours after ingestion.
+Phase I: bloody diarrhea, vomiting,
+abdominal pain, and dehydration. Signs
+resolve in a few hours but can last up to 24
+hours.
+Phase II: Pet seems better as signs
+disappear for several hours up to 3 days.
+Phase III: Severe liver and kidney
+dysfunction with seizures and potential
+coma. Bleeding may also occur. Most dogs
+die within 3-7 days post ingestion.
+Orelline and Orellanine Cortinarius
+spp.
+Rare in the U.S. Initial symptoms include
+vomiting and diarrhea followed by
+decreased urine production, vomiting and
+depression 3-14 days later. Prognosis is
+guarded.
+Ibotenic Acid and
+Muscimol (Isoxazole
+Derivatives)
+Tricholoma
+spp.
+Amanita
+muscaria
+Amanita
+pantherina
+Rapid onset of symptoms within a few
+minutes to hours. These include abdominal
+pain, vomiting, incoordination, and muscle
+spasms followed by confusion, drowsiness,
+agitation, hallucinations, and seizures. Most
+severe signs within 2 -3 hours and usually
+resolve within 10-24 hours.
+Psilocybin and psilocin
+Psilocybe
+spp.
+Panaeolus
+spp.
+Copelandia
+spp.
+Gymnopilus
+spp.
+Pluteus spp.
+Conocybe
+spp.
+(magic
+mushrooms)
+Symptoms occur 20-60 minutes post
+ingestion and include vomiting,
+disorientation, aggression, hallucinations,
+tremors, lethargy dilated pupils, increased
+body temperature, and increased grooming
+in cats. Most pets recover uneventfully
+within 6 hours although dilated pupils and
+drowsiness may last up to 24 hours.
+Monomethylhydrazine
+Gyromitra
+spp.
+(false morsels)
+Symptoms start either 6-24 hours post
+ingestion or within 2 days. Signs can
+include vomiting, diarrhea, depression or
+restlessness, and rarely seizures. Most
+cases are relatively mild but sometimes
+fatal.
+
+8/4/25, 12:32 PM Mushroom Poisoning in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254106&id=10020259&ind=601&objTypeID=1007 6/7
+Muscarine
+Inocybe spp.
+Clitocybe
+spp.
+Symptoms occur within 15 minutes to 2
+hours of ingestion and include vomiting,
+diarrhea, excessive salivation, lacrimation,
+urination, nasal discharge, difficulty
+breathing, and blurred vision. Can be fatal
+but prognosis good with proper treatment.
+GI toxins Many different
+species
+Symptoms occur within 2 hours post
+ingestion and include weakness, nausea,
+vomiting, and diarrhea. Most cases are mild
+and usually resolve without treatment within
+1-2 days.
+URL: https://veterinarypartner.vin.com/doc/?id=10020259&pid=19239
+b6a348b1-aa75-4708-9ca2-74a861126d25.1754290934
+The content of this site is owned by Veterinary Information Network (VIN®), and its reproduction and
+distribution may only be done with VIN®'s express permission.
+The information contained here is for general purposes only and is not a substitute for advice from your
+veterinarian. Any reliance you place on such information is strictly at your own risk.
+Links to non-VIN websites do not imply a recommendation or endorsement by VIN® of the views or content
+contained within those sites.
+
+8/4/25, 12:32 PM Mushroom Poisoning in Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254106&id=10020259&ind=601&objTypeID=1007 7/7
+
+Poisonous Plants for Dogs and Cats
+Tina Wismer, DVM, DABVT, DABT
+Revised: October 03, 2018
+Published: January 15, 2001
+The ASPCA Animal Poison Control Center provides a list of plants that have been
+reported as having systemic effects on animals and/or intense effects on the
+gastrointestinal tract. Please note that the information contained in our plant lists is not
+meant to be all-inclusive, but rather a compilation of the most frequently encountered
+plants.
+Also, be advised that the consumption of any plant material may cause vomiting and
+gastrointestinal upset for dogs and cats. Plants listed as either non-toxic, or potentially
+toxic with mild GI upset as their symptoms are not expected to be life-threatening to your
+pets.
+If you believe that your animal is ill or may have ingested a poisonous substance, or if you
+have any further questions regarding the information contained in this database, contact
+either your local veterinarian or the APCC 24-hour emergency poison hotline at 1-888-
+426-4435.
+For photographs of individual plants and access to lists of poisonous plants for dogs,
+cats, and horses, see the ASPCA's full lists.
+Common Plants
+Lilies
+Members of the Lilium spp. are considered to be highly toxic to cats. While the poisonous
+component has not yet been identified, it is clear that with even ingestions of very small
+amounts of the plant, severe kidney damage could result.
+Cannabis
+Ingestion of Cannabis sativa by companion animals can result in depression of the central
+nervous system and incoordination, as well as vomiting, diarrhea, drooling, increased
+heart rate, and even seizures and coma.
+Sago Palm
+All parts of Cycas Revoluta are poisonous, but the seeds or "nuts" contain the largest
+amount of toxin. The ingestion of just one or two seeds can result in very serious effects,
+which include vomiting, diarrhea, depression, seizures, and liver failure.
+Tulip/Narcissus bulbs
+The bulb portions of Tulipa/Narcissus spp. contain toxins that can cause intense
+gastrointestinal irritation, drooling, loss of appetite, depression of the central nervous
+system, convulsions, and cardiac abnormalities.
+Azalea/Rhododendron
+Members of the Rhododenron spp. contain substances known as grayanotoxins, which
+can produce vomiting, drooling, diarrhea, weakness, and depression of the central
+nervous system in animals. Severe azalea poisoning could ultimately lead to coma and
+death from cardiovascular collapse.
+
+8/4/25, 12:32 PM Poisonous Plants for Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254106&id=6047984&ind=602&objTypeID=1007 1/3
+Oleander
+All parts of Nerium oleander are considered to be toxic, as they contain cardiac glycosides
+that have the potential to cause serious effects—including gastrointestinal tract irritation,
+abnormal heart function, hypothermia, and even death.
+Castor Bean
+The poisonous principle in Ricinus communis is ricin, a highly toxic protein that can
+produce severe abdominal pain, drooling, vomiting, diarrhea, excessive thirst, weakness,
+and loss of appetite. Severe cases of poisoning can result in dehydration, muscle
+twitching, tremors, seizures, coma, and death.
+Cyclamen
+Cyclamen species contain cyclamine, but the highest concentration of this toxic
+component is typically located in the root portion of the plant. If consumed, cyclamen can
+produce significant gastrointestinal irritation, including intense vomiting. Fatalities have
+also been reported in some cases.
+Kalanchoe
+This plant contains components that can produce gastrointestinal irritation, as well as
+those that are toxic to the heart and can seriously affect cardiac rhythm and rate.
+Yew
+Taxus spp. contains a toxic component known as taxine, which causes central nervous
+system effects such as trembling, incoordination, and difficulty breathing. It can also cause
+significant gastrointestinal irritation and cardiac failure, which can result in death.
+Amaryllis
+Common garden plants popular around Easter, Amaryllis species contain toxins that can
+cause vomiting, depression, diarrhea, abdominal pain, hypersalivation, anorexia, and
+tremors.
+Autumn Crocus
+Ingestion of Colchicum autumnale by pets can result in oral irritation, bloody vomiting,
+diarrhea, shock, multi-organ damage and bone marrow suppression.
+Chrysanthemum
+These popular blooms are part of the Compositae family, which contain pyrethrins that
+may produce gastrointestinal upset, including drooling, vomiting, and diarrhea if eaten. In
+certain cases, depression and loss of coordination may also develop if enough of any part
+of the plant is consumed.
+English Ivy
+Also called branching ivy, glacier ivy, needlepoint ivy, sweetheart ivy, and California ivy,
+Hedera helix contains triterpenoid saponins that, should pets ingest, can result in
+vomiting, abdominal pain, hypersalivation, and diarrhea.
+Peace Lily (AKA Mauna Loa Peace Lily)
+Spathiphyllum contains calcium oxalate crystals that can cause oral irritation, excessive
+drooling, vomiting, difficulty in swallowing, and intense burning and irritation of the mouth,
+lips, and tongue in pets who ingest.
+Pothos
+Pothos (both Scindapsus and Epipremnum) belongs to the Araceae family. If chewed or
+ingested, this popular household plant can cause significant mechanical irritation and
+swelling of the oral tissues and other parts of the gastrointestinal tract.
+Schefflera
+Schefflera and Brassaia actinophylla contain calcium oxalate crystals that can cause oral
+irritation, excessive drooling, vomiting, difficulty in swallowing, and intense burning and
+irritation of the mouth, lips, and tongue in pets who ingest them.
+
+8/4/25, 12:32 PM Poisonous Plants for Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254106&id=6047984&ind=602&objTypeID=1007 2/3
+The ASPCA National Animal Poison Control is available 24 hours a day at 888-426-
+4435. Expect an initial consultation fee of around $100.00 and additional follow-up is
+at no charge. You will be assigned a case number your veterinarian can use to
+communicate with a toxicology specialist before beginning treatment.
+If your pet has a HomeAgain microchip, a free poison control consultation is included
+in the full-service registration. Call 1-888-466-3242.
+https://www.homeagain.com/our-services/emergency-medical-hotline
+https://www.aspca.org/pet-care/animal-poison-control
+URL: https://veterinarypartner.vin.com/doc/?id=6047984&pid=19239
+b6a348b1-aa75-4708-9ca2-74a861126d25.1754290957
+The content of this site is owned by Veterinary Information Network (VIN®), and its reproduction and
+distribution may only be done with VIN®'s express permission.
+The information contained here is for general purposes only and is not a substitute for advice from your
+veterinarian. Any reliance you place on such information is strictly at your own risk.
+Links to non-VIN websites do not imply a recommendation or endorsement by VIN® of the views or content
+contained within those sites.
+
+8/4/25, 12:32 PM Poisonous Plants for Dogs and Cats - Veterinary Partner - VIN
+https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=254106&id=6047984&ind=602&objTypeID=1007 3/3
+

@@ -1,0 +1,14 @@
+venv/
+barkai/
+.venv/
+env/
+
+.env
+
+data/vector_store/
+
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
