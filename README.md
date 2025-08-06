@@ -14,7 +14,7 @@ An advanced RAG-based conversational AI assistant designed to support veterinary
 
 You can access and interact with the live application here:
 
-**[[bark_ai webapp]](https://bark-ai.streamlit.app/)**
+**[[bark_ai webapp]]([https://bark-ai.streamlit.app/])**
 
 ---
 
