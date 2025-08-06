@@ -7,6 +7,8 @@
 An advanced RAG-based conversational AI assistant designed to support veterinary professionals by providing evidence-based insights for canine diagnostics from a curated knowledge base.
 
 ---
+<img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/66e8db43-b1fc-4e64-9616-7b3bc54b3148" />
+
 
 ## 🚀 Live Demo
 
